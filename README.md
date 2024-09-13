@@ -1,5 +1,5 @@
 🎮 Fun Python Projects 🚀
-Welcome to the Fun Python Projects repository! This collection features exciting and interactive Python projects designed to sharpen your coding skills while having fun. From classic games to useful utilities, dive in and explore the wonders of Python!
+Welcome to the Fun Python Projects repository! This collection features exciting and interactive Python projects designed to sharpen your coding skills while having fun. From classic games to useful utilities, dive in and explore the wonders of Python! 
 
 📂 Projects Included
 1. 🎲 Rock-Paper-Scissors
