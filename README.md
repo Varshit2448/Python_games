@@ -4,7 +4,7 @@ Welcome to the Fun Python Projects repository! This collection features exciting
 📂 Projects Included
 1. 🎲 Rock-Paper-Scissors
 Challenge yourself in a battle of luck and strategy with the timeless Rock-Paper-Scissors game! You face off against the computer, and the winner is determined based on the classic rules of rock crushing scissors, scissors cutting paper, and paper covering rock.
-
+ 
 Technologies: Python, Random module
 Skills: Conditional logic, loops, and user input handling.
 2. 🧠 Hangman
